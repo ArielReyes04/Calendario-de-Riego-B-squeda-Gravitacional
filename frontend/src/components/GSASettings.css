@@ -1,0 +1,22 @@
+.gsa-settings-container {
+  background-color: #1e1e2f;
+  color: #f0f0f0;
+  border: 1px solid #2c2c3e;
+}
+
+.gsa-settings-container h2 {
+  color: #ffffff;
+}
+
+.custom-input {
+  background-color: #2b2b3c;
+  color: #ffffff;
+  border: 1px solid #444;
+}
+
+.custom-input:focus {
+  background-color: #2b2b3c;
+  color: #ffffff;
+  border-color: #66afe9;
+  box-shadow: 0 0 5px rgba(102, 175, 233, 0.6);
+}
